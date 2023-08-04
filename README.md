@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbiMantra132
-- 👀 I’m interested in Web designed
-- 🌱 I’m currently learning Javascript, Reactjs, Redux, Firebase
-- 💞️ I’m not looking to collaborate now 
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate now 
 - 📫 How to reach me? on instagram = @abimantra132
 
 <!---
